@@ -1,5 +1,9 @@
-{
-	"wave":"1",
-	"latestReleaseDate":"1440224724505",
-	"amiiboList":[]
-}
+[{
+	"id": 0,
+	"latestReleaseDate": 1440224724505,
+	"amiiboList": [0, 1, 2]
+}, {
+	"id": 1,
+	"latestReleaseDate": 1440224724505,
+	"amiiboList": []
+}]

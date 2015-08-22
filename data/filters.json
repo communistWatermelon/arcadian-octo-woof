@@ -1,4 +1,11 @@
-{
-	"amiiboSeries":"Super Smash Bros.",
-	"releasedWaves":"1"
-}
+[{
+	"id": 0,
+	"amiiboSeries": "Super Smash Bros.",
+	"releasedWaves": 0,
+	"newestWave": "1440230456042"
+}, {
+	"id": 1,
+	"amiiboSeries": "Marios??",
+	"releasedWaves": 1,
+	"newestWave": "1440230456042"
+}]
