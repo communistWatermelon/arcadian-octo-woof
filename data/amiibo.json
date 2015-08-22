@@ -1,0 +1,28 @@
+[{
+	"id":"1",
+	"name":"Mario",
+	"series":"Super Mario Brothers",
+	"availability":"COMMON",
+	"exclusivity":"NONE",
+	"collectedStatus":"COLLECTED",
+	"variants":[],
+	"releaseDate":"1440224424505"
+},{
+	"id":"2",
+	"name":"Diddy",
+	"series":"Donkey Kong",
+	"availability":"UNCOMMON",
+	"exclusivity":"EBGAMEs",
+	"collectedStatus":"SHIPPING",
+	"variants":[],
+	"releaseDate":"1440224124505"
+},{
+	"id":"3",
+	"name":"Link",
+	"series":"Legend of Zelda",
+	"availability":"UNICORN",
+	"exclusivity":"NONE",
+	"collectedStatus":"PREORDERED",
+	"variants":[],
+	"releaseDate":"1440224724505"
+}]
