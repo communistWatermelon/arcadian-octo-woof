@@ -1,28 +1,34 @@
 [{
 	"id": 0,
 	"name": "Mario",
-	"series": "Super Mario Brothers",
-	"availability": "COMMON",
-	"exclusivity": "NONE",
-	"collectedStatus": "COLLECTED",
-	"variants": [],
-	"releaseDate": "1440224424505"
+	"imageUrl": "ssbmario",
+	"wave": 0,
+	"availability": 0,
+	"exclusivity": 0,
+	"collectedStatus": 1,
+	"releaseDateJA": "1440224424505",
+	"releaseDateNA": "1440224424505",
+	"releaseDateEU": "1440224424505"
 },{
 	"id": 1,
 	"name": "Diddy",
-	"series": "Donkey Kong",
-	"availability": "UNCOMMON",
-	"exclusivity": "EBGAMEs",
-	"collectedStatus": "SHIPPING",
-	"variants": [],
-	"releaseDate": "1440224124505"
+	"imageUrl": "ssbdiddy",
+	"wave": 1,
+	"availability": 2,
+	"exclusivity": 2,
+	"collectedStatus": 2,
+	"releaseDateJA": "1440224424505",
+	"releaseDateNA": "1440224424505",
+	"releaseDateEU": "1440224424505"
 },{
 	"id": 2,
 	"name": "Link",
-	"series": "Legend of Zelda",
-	"availability": "UNICORN",
-	"exclusivity": "NONE",
-	"collectedStatus": "PREORDERED",
-	"variants": [],
-	"releaseDate": "1440224724505"
+	"imageUrl": "ssblink",
+	"wave": 0,
+	"availability": 4,
+	"exclusivity": 0,
+	"collectedStatus": 3,
+	"releaseDateJA": "1440224424505",
+	"releaseDateNA": "1440224424505",
+	"releaseDateEU": "1440224424505"
 }]
