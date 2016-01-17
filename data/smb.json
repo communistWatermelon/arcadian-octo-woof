@@ -1,0 +1,24 @@
+[
+	{
+		"name":"Mario",
+		"imageurl":"smbmario.png",
+		"id":0,
+		"wave":1,
+		"exclusivity":"NONE",
+		"availability":"COMMON",
+		"releasedatejap":1440224424505,
+		"releasedatena":1440224424505,
+		"releasedateeur":1440224424505
+	},
+	{
+		"name":"Luigi",
+		"imageurl":"smbluigi.png",
+		"id":1,
+		"wave":2,
+		"exclusivity":"NONE",
+		"availability":"UNICORN",
+		"releasedatejap":1440224425505,
+		"releasedatena":1440224425505,
+		"releasedateeur":1440224425505
+	}
+]
