@@ -6,9 +6,9 @@
 		"wave":3,
 		"exclusivity":"NONE",
 		"availability":"COMMON",
-		"releasedatejap":1440224424505,
+		"releasedateja":1440224424505,
 		"releasedatena":1440224424505,
-		"releasedateeur":1440224424505
+		"releasedateeu":1440224424505
 	},
 	{
 		"name":"Captain Falcon",
@@ -17,8 +17,8 @@
 		"wave":2,
 		"exclusivity":"WALMART",
 		"availability":"UNICORN",
-		"releasedatejap":1440224425505,
+		"releasedateja":1440224425505,
 		"releasedatena":1440224425505,
-		"releasedateeur":1440224425505
+		"releasedateeu":1440224425505
 	}
 ]

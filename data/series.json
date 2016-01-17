@@ -1,4 +1,10 @@
 [
-	{"url":"ssb.json"},
-	{"url":"smb.json"},
+	{
+		"name":"Super Smash Brothers",
+		"url":"ssb.json"
+	},
+	{
+		"name":"Super Mario Brothers",
+		"url":"smb.json"
+	}
 ]
